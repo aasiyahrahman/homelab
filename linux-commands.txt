@@ -1,0 +1,11 @@
+# Basic Linux commands I used:
+
+pwd          # show current directory
+ls -l        # list files and permissions
+cd <dir>     # change directory
+mkdir <dir>  # create directory
+touch <file> # create empty file
+cp <src> <dst> # copy file
+mv <src> <dst> # move/rename
+rm <file>    # delete file
+sudo apt install <pkg>  # install package
