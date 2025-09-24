@@ -18,3 +18,9 @@
   - `docs/screenshots/day3/wireshark_capture_list.png`  
   - `docs/screenshots/day3/wireshark_http_packet.png`  
   - `nmap_host_scan.txt`
+
+## Day 4 — Python Password Strength Checker
+- Wrote a simple Python script to evaluate password complexity using regex.
+- Added CLI interaction and tips for improving weak passwords.
+- Saved execution screenshot showing results.
+- Artifacts: password-checker/, docs/screenshots/day4/password_checker_run.pn
